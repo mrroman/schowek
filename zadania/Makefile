@@ -1,0 +1,2 @@
+LDFLAGS=-O2 -lm
+
